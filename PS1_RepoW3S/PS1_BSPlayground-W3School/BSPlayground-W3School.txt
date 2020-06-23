@@ -1,0 +1,8 @@
+<!--
+	from [TEMPLATE_LessonName] [TEMPLATE_ExerciseName]: Exercise [TEMPLATE_CurrentQuestionNumber] ( [TEMPLATE_CurrentQuestionURL] )
+
+	question:
+
+
+
+//-->
